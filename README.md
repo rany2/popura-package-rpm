@@ -2,4 +2,4 @@
 
 Packages for `popura` on RedHat-related distros (Fedora, RedHat Linux, CentOS, Oracle, etc.)
 
-To enable repo, `dnf copr enable rany2/popura`.
+To enable repo, `dnf copr enable rany/popura`.
