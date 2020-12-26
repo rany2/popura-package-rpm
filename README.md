@@ -1,4 +1,4 @@
-# popura-package-rpm [![Copr build status](https://copr.fedorainfracloud.org/coprs/rany/popura/package/popura/status_image/last_build.png)](https://copr.fedorainfracloud.org/coprs/rany/popura/package/popura/)
+# popura-package-rpm [![Copr build status](https://copr.fedorainfracloud.org/coprs/rany/popura/package/popura/status_image/last_build.png?31888)](https://copr.fedorainfracloud.org/coprs/rany/popura/package/popura/)
 
 Packages for `popura` on RedHat-related distros (Fedora, RedHat Linux, CentOS, Oracle, etc.)
 
