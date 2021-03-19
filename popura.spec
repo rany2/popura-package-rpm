@@ -28,6 +28,7 @@ exit 0
 %build
 export PKGNAME="%{name}"
 export PKGVER="%{version}"
+export GOPROXY="https://proxy.golang.org,direct"
 ./build -t -l "-linkmode=external"
 
 %install
