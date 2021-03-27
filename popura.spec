@@ -1,6 +1,6 @@
 Name:           popura
 Version:        0.3.16+popura1
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Popura ポプラ: alternative Yggdrasil network client
 
 License:        GPLv3
