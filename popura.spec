@@ -8,7 +8,7 @@ URL:            https://popura-network.github.io
 Source:         https://codeload.github.com/popura-network/Popura/tar.gz/v%{version}
 
 %{?systemd_requires}
-BuildRequires:  systemd golang >= 1.13 git
+BuildRequires:  systemd golang >= 1.16 git
 Requires(pre):  shadow-utils
 Conflicts:      popura-develop yggdrasil yggdrasil-develop
 
