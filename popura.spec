@@ -1,5 +1,5 @@
 Name:           popura
-Version:        0.4.2+popura1
+Version:        0.4.3+popura1
 Release:        1%{?dist}
 Summary:        Popura ポプラ: alternative Yggdrasil network client
 
